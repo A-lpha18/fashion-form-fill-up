@@ -1,0 +1,22 @@
+*{
+    font-family: "Audiowide", sans-serif;
+    background: url(./bg.jpg);
+    background-size: 120%;
+}
+.submit{
+    background: transparent;
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+    text-align: left;
+    width: 500px;
+    margin-left: 600px;
+    border-radius: 12px;
+    padding-bottom: 40px;
+
+}
+h1{
+    background-position: center;
+    background: transparent;
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+}

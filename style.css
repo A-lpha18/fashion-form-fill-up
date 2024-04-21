@@ -1,0 +1,113 @@
+*{
+    font-family: "Audiowide", sans-serif;
+}
+body{
+    background: url(./bg.jpg);
+    background-size: 150%;
+    background-position: center;
+}
+
+#a{
+    background: transparent;
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+    text-align: left;
+    width: 500px;
+    margin-left: 600px;
+    border-radius: 12px;
+    padding-bottom: 40px;
+    border-color: white;
+}
+hr{
+    color: rgb(240, 235, 248);
+}
+
+.input-box{
+    background: transparent;
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+    text-align: left;
+    padding-bottom: 3px;
+    margin-left: 600px;
+    margin-right: 628px;
+    border-radius: 12px;
+    padding-bottom: 42px;
+    padding-top: 1px;
+}
+#c{
+    background: transparent;
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+    text-align: left;
+    margin-left: 600px;
+    margin-right: 628px;
+    border-radius: 12px;
+    padding-bottom: 40px;
+    padding-top: 14px;
+}
+.phone{
+    background: transparent;
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+    text-align: left;
+    margin-left: 600px;
+    margin-right: 628px;
+    border-radius: 12px;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+
+.checkbox{
+    background: transparent;
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+    text-align: left;
+    margin-left: 600px;
+    margin-right: 628px;
+    border-radius: 12px;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+.department{
+    background: transparent;
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+    text-align: left;
+    margin-left: 600px;
+    margin-right: 628px;
+    border-radius: 12px;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+.roll{
+    background: transparent;
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+    text-align: left;
+    margin-left: 600px;
+    margin-right: 628px;
+    border-radius: 12px;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+
+.submit{
+    margin-left: 600px;
+    margin-right: 628px;
+    border-radius: 12px;
+    padding-bottom: 40px;
+    padding-top: 10px;
+    
+}
+.toggle{
+    margin-left: 600px;
+    margin-right: 628px;
+    border-radius: 12px;
+    padding-bottom: 40px;
+    padding-top: 10px;
+    color: whitesmoke;
+}
+button{
+    background-color: gray;
+    text-decoration: none;
+}
